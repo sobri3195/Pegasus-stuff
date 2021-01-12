@@ -3,7 +3,7 @@ New Social Engineering Technique
 ===========================================
 
 Pegasus-Stuff
-  Created by dr. Muhammad Sobri Maulana, CEH, OSCP
+  Created by Muhammad Sobri Maulana
 
    
 Usage: Pegasus-stuff.py <host> <to> <file>
